@@ -2,6 +2,7 @@ site_name: Ascend GitHub Action Runners
 site_url: https://ascend-gha-runners.github.io/docs/
 repo_name: ascend-gha-runners/docs
 repo_url: https://github.com/ascend-gha-runners/docs
+edit_uri: blob/main/docs/
 theme:
   name: material
   logo: assets/logo/logo.png
